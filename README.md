@@ -1,1 +1,1 @@
-Dedoco-api
+Dedoco-web
