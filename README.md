@@ -55,3 +55,44 @@ step 8 :
     - your friends can make payment or updtae on the textbox displyed on the expense.
 
 
+-----------------------------------------------------------------------------------------------------------------
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 08 12 PM" src="https://user-images.githubusercontent.com/23289583/155893400-7e494ffa-9c6d-4ee4-b090-969ba524928d.png">
+
+
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 08 20 PM" src="https://user-images.githubusercontent.com/23289583/155893401-64dc48f3-e788-41ae-8f38-a131a41e381c.png">
+
+
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 08 38 PM" src="https://user-images.githubusercontent.com/23289583/155893410-e4714e6b-3025-4bc4-b7e6-2c2b1b3a6af7.png">
+
+
+
+
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 09 04 PM" src="https://user-images.githubusercontent.com/23289583/155893428-68a9fad4-7c1d-4033-8b7b-4c5fc7d7cd1f.png">
+
+
+
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 09 14 PM" src="https://user-images.githubusercontent.com/23289583/155893435-a08c4833-fb17-43b1-9ea3-0481a5f8c69b.png">
+
+
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 47 27 PM" src="https://user-images.githubusercontent.com/23289583/155893438-4853aa3e-112f-4e81-b2bf-3962a65aac81.png">
+
+
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 47 44 PM" src="https://user-images.githubusercontent.com/23289583/155893442-6cc3c02b-5777-459f-a291-128f8ed7e8d8.png">
+
+
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 48 11 PM" src="https://user-images.githubusercontent.com/23289583/155893447-26b524aa-3bdb-4134-a2b1-e3016c99a634.png">
+
+
+
+<img width="1440" alt="Screen Shot 2022-02-27 at 10 48 28 PM" src="https://user-images.githubusercontent.com/23289583/155893454-20d5d866-7042-4d39-a471-25f4cf917fcf.png">
+
+
+
