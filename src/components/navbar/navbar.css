@@ -1,0 +1,17 @@
+.navbar-container {
+  background-color: #ededed;
+  width: 100%;
+  height: 120px;
+}
+
+.logout-button { 
+  float: right;
+  margin-top: 40px !important;
+  margin-right: 10px !important;
+}
+
+
+.hello-greets {
+  margin-left: 51px;
+  margin-bottom: 0px !important;
+}

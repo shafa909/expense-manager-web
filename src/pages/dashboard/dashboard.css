@@ -1,0 +1,26 @@
+.trip-container {
+  width: 100%;
+}
+
+.add-trip-button {
+  float: right;
+  margin-top: 30px !important;
+  margin-right: 10px !important;
+}
+
+.tirp-heading {
+  font-weight: bold;
+  margin-left: 50px !important;
+  margin-top: 30px !important;
+}
+
+.not-found-heading {
+  margin-left: 50px !important;
+  margin-top: 30px !important;
+}
+
+.trip-grid-group {
+  display:flex;
+  flex-wrap: wrap;
+  margin: 30px;
+}

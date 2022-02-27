@@ -1,0 +1,19 @@
+.login-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-title {
+  font-weight: bold;
+  margin-top: 220px;
+}
+
+.textfield-style {
+  width: 313px;
+  margin-top: 13px !important;
+}
+
+.sign-in-btn {
+  margin-top: 21px !important;
+}

@@ -1,0 +1,26 @@
+.trip-grid-box {
+  width: 500px;
+  height: 180px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.trip-name {
+  color: #626262;
+  margin-left: 20px;
+}
+
+.trip-created-date {
+  float: right;
+  margin-top: -44px;
+  margin-right: 10px;
+  color: #626262;
+}
+
+.trip-desc, .trip-member-count, .trip-created-by {
+  color: #626262;
+  margin-left: 20px;
+}
+

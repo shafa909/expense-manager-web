@@ -1,0 +1,39 @@
+.expense-grid-box {
+	width: 410px;
+	height: 200px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.expense-grid-box-pay {
+	width: 410px;
+	height: 230px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.expense-name {
+	color: #626262;
+	margin-left: 20px;
+}
+
+.expense-amount {
+	color: #626262;
+	margin-left: 20px;
+}
+
+.pay-btn {
+	width: 150px;
+	margin-top: 7px !important;
+	float: right;
+	margin-right: 10px !important;
+}
+
+.pay-text-box {
+	margin-top: 7px !important;
+	margin-left: 20px !important;
+}
