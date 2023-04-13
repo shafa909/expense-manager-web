@@ -14,7 +14,13 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
+### backend code : https://github.com/shafa909/expense-manager-api
 --------------------------------------------------------------------------------------
+
+
+#### this is the app for divide and share your trip expense across your friends  
+
 
 step 1 : 
     - Signup some users, 2 or more (we are sharing our expense with our friends).
